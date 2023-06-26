@@ -23,6 +23,6 @@
 
 [Session 3 Video Content](https://pgtreau.github.io/session3.html)
 
-## Session 4: Goods vs. Services
+## Session 4: Product Differentiation
 
 [Session 4 Video Content](https://pgtreau.github.io/session4.html)
