@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hello World
-theme: jekyll-theme-minima
 ---
 
 # Session 1: Intro to Marketing
