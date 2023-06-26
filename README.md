@@ -4,6 +4,7 @@ title: Hello World
 theme: jekyll-theme-minimal
 ---
 
+
 # Summer 2023 - Marketing Project
 
 ## Reading Material & Working Documents
