@@ -1,3 +1,5 @@
+[<- Back to home](https://pgtreau.github.io/)
+
 ## Session 3: Market Segmentation
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/pCLQkgcjMjY?list=PL14BB28B5FE99A733" title="How to Use Market Segmentation: Developing a Target Market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
