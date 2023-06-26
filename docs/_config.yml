@@ -1,6 +1,7 @@
 title: Marketing Project
 theme: jekyll-theme-slate
 description: Summer 2023
+baseurl: /pgtreau.github.io
 
 navbar-links:
   Session 1: "session1"
