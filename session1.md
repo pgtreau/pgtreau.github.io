@@ -2,6 +2,8 @@
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qWlhzTI0ooo?list=PL14BB28B5FE99A733" title="Introduction to Marketing: The Importance of Product, Price, Place, &amp; Promotion | Episode 118" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="1048" height="786" src="https://www.youtube.com/embed/AyyvFASW6Nw" title="The Difference Between Goods & Services" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 ![Marketing Mix Illustration](/pgtreau.github.io/docs/assets/market_mix.png)
 
 ### Learning Objective
