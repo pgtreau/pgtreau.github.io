@@ -5,7 +5,7 @@
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/AyyvFASW6Nw" title="The Difference Between Goods & Services" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-<a><img align="left" src="docs/assets/market_mix.png" alt="image" class="rpad"></a>
+<img align="left" src="docs/assets/market_mix.png" alt="ima>
 
 ### Learning Objective
 - Understand the 4 segments that makeup the discipline of marketing. (4 P's of marketing)
