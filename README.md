@@ -5,7 +5,7 @@
 
 ## Session 1: Intro to Marketing
 
-[Session 1 Video Content](https://github.com/pgtreau/pgtreau.github.io/blob/f728902fa265cb09b8d0fe39eded682e45c85193/session1.md)
+[Session 1 Video Content](https://github.com/pgtreau/pgtreau.github.io/blob/742f061fdf10b101659eb5dd9ca625ed7e5fda17/session1/session1.md)
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qWlhzTI0ooo?list=PL14BB28B5FE99A733" title="Introduction to Marketing: The Importance of Product, Price, Place, &amp; Promotion | Episode 118" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
