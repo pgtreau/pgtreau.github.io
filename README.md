@@ -1,4 +1,8 @@
-# Summer 2023 - Marketing Project
+---
+title: Summer 2023 - Marketing Project
+---
+
+<h1> {{page.title}} </h1>
 
 ## Reading Material & Working Documents
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
