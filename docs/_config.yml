@@ -4,3 +4,22 @@ author: Pierre Gautreau
 
 navbar-links:
   Session 1: "session1"
+# Add a search button to the navbar
+post_search: true
+
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+#avatar: "/assets/img/avatar-icon.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+#round-avatar: true
+
+social-network-links:
+  email: "gautreau@schulich.yorku.ca"
+  github: https://github.com/pgtreau
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
