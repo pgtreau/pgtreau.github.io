@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hello World
+---
+
 # Summer 2023 - Marketing Project
 
 ## Reading Material & Working Documents
