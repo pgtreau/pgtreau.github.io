@@ -1,2 +1,6 @@
 title: Summer 2023 - Marketing Project
 theme: jekyll-theme-slate
+author: Pierre Gautreau
+
+navbar-links:
+  Session 1: "session1"
