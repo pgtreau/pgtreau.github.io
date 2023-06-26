@@ -1,7 +1,3 @@
----
-title: Summer 2023 - Marketing Project
----
-
 # Summer 2023 - Marketing Project
 
 ## Reading Material & Working Documents
