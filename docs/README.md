@@ -26,3 +26,7 @@
 ## Session 4: Product Differentiation
 
 [Session 4 Video Content](https://pgtreau.github.io/session4.html)
+
+## Session 5: Marketing Research Method
+
+[Session 5 Video Content](https://pgtreau.github.io/session5.html)
