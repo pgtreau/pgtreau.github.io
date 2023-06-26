@@ -6,7 +6,7 @@ title: Session 1
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/qWlhzTI0ooo?list=PL14BB28B5FE99A733" title="Introduction to Marketing: The Importance of Product, Price, Place, &amp; Promotion | Episode 118" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![Pasted image 20230625190711.png](/pgtreau.github.io/img/market_mix.png)
+![Marketing Mix Illustration](/pgtreau.github.io/img/market_mix.png)
 
 ### Learning Objective
 - Understand the 4 segments that makeup the discipline of marketing. (4 P's of marketing)
