@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Hello World
-theme: jekyll-theme-minima
 ---
 
 # Summer 2023 - Marketing Project
