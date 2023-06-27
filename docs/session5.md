@@ -1,6 +1,6 @@
 [<- Back to home](https://pgtreau.github.io/marketing.html)
 
-# Session 5: Marketing Research Method
+# Chapter 5: Marketing Research Method
 
 Marketing research methods refer to the techniques that researchers use to gather data on a market, its customers, and its competition. Here are several key types of marketing research methods:
 
@@ -41,31 +41,31 @@ Moreover, secondary data might not be as specific or detailed as the researcher 
 
 **Here are some strategies to identify useful external data sources:**
 
-1. Government Databases and Publications:
+**Government Databases and Publications:**
 
 Governments often provide a wealth of data on a wide range of topics such as population demographics, economic indicators, trade statistics, and industry trends. Examples include the U.S. Census Bureau, Bureau of Labor Statistics, and the U.S. Economic Indicators.
 
-2. Trade Associations and Industry Bodies:
+**Trade Associations and Industry Bodies:**
 
 Many industries have trade associations or industry bodies that regularly publish reports and statistics relevant to their sector. These can be particularly useful for understanding specific industry trends, competitive landscapes, and regulatory issues.
 
-3. Market Research Firms:
+**Market Research Firms:**
 
 Companies like Nielsen, Ipsos, and Gartner conduct extensive market research and sell reports on a variety of industries and market trends. These reports can be pricey, but they often provide detailed insights that can be valuable for strategic planning.
 
-4. Business Publications and News Agencies:
+**Business Publications and News Agencies:**
 
 Established business publications like Forbes, Business Insider, Bloomberg, and Wall Street Journal often publish reports and articles that include relevant market data.
 
-5. Academic Institutions:
+**Academic Institutions:**
 
 Universities and research institutions often conduct studies that involve the collection of data. This research is often published in academic journals and can provide detailed insights into specific topics.
 
-6. Social Media Analytics:
+**Social Media Analytics:**
 
 Social media platforms can provide a wealth of data about consumer behavior and trends. Twitter trends, Facebook's Audience Insights, and LinkedIn's industry news are all useful sources of external data.
 
-7. Publicly Available Financial Reports:
+**Publicly Available Financial Reports:**
 
 If you're researching competitors, their publicly available financial reports can provide a lot of useful data. For public companies, annual reports, SEC filings, and earnings call transcripts can give you insights into a company's performance and strategic direction.
 
