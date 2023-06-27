@@ -14,19 +14,9 @@ You may need to be granted access to these files, email me if they are not acces
 
 [Chapter 1 Learning Material](https://pgtreau.github.io/session1.html)
 
-### Learning Objective
-- Understand the 4 segments that makeup the discipline of marketing. (4 P's of marketing)
-- Understand the difference between marketing and advertising.
-
 ## Chapter 2: How value is created
 
 [Chapter 2 Learning Material](https://pgtreau.github.io/session2.html)
-
-### Learning Objective
-- Explain what is a value proposition.
-- Explain the difference between utility and value.
-- Produce of an example "pitching" a value proposition for a business idea. (elevator pitch)
-  - This can be a real business or an idea you may have. 
 
 ## Chapter 3: Market Segmentation
 
