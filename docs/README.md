@@ -1,9 +1,9 @@
 ## Reading Material & Working Documents
-
+<p>
 <img align="left" width="50px" src="assets/startup-marketing.jpg" alt="image">
 <img align="left" width="50px" src="assets/innovation-marketing.jpg" alt="image">
 <img align="left" width="50px" src="assets/social-marketing.jpg" alt="image">
-//
+</p>
 
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 
