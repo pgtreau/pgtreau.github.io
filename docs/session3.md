@@ -1,4 +1,4 @@
-[<- Back to home](https://pgtreau.github.io/)
+[<- Back to home](https://pgtreau.github.io/marketing.html)
 
 ## Session 3: Market Segmentation
 
