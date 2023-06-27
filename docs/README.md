@@ -1,16 +1,16 @@
 ## Reading Material & Working Documents
-<p>
   
-<a href="https://drive.google.com/file/d/1g35rYNP2t7ihk8FNQsXImhxf4W3BGCbJ/view?usp=drive_link" title="Ready, Launch, Brand"><img align="left" width="100px" src="assets/startup-marketing.jpg" alt="image"></a>
+<a href="https://drive.google.com/file/d/1g35rYNP2t7ihk8FNQsXImhxf4W3BGCbJ/view?usp=drive_link" title="Ready, Launch, Brand"><img align="left" width="150px" src="assets/startup-marketing.jpg" alt="image"></a>
 
-<a href="https://drive.google.com/file/d/1p3ATy3UFxT5vbKb24eVCh2a1XE_bWd0f/view?usp=drive_link" title="Technology & Innovation Marketing"><img align="left" width="100px" src="assets/innovation-marketing.jpg" alt="image"></a>
+<a href="https://drive.google.com/file/d/1p3ATy3UFxT5vbKb24eVCh2a1XE_bWd0f/view?usp=drive_link" title="Technology & Innovation Marketing"><img align="left" width="150px" src="assets/innovation-marketing.jpg" alt="image"></a>
 
-<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="left" width="100px" src="assets/social-marketing.jpg" alt="image"></a>
+<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="left" width="150px" src="assets/social-marketing.jpg" alt="image"></a>
   
-</p>
+<br>
 
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 ____
+<br>
 ## Session 1: Intro to Marketing
 
 [Session 1 Video Content](https://pgtreau.github.io/session1.html)
