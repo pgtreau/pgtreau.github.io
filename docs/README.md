@@ -4,9 +4,7 @@
 
 <a href="https://drive.google.com/file/d/1p3ATy3UFxT5vbKb24eVCh2a1XE_bWd0f/view?usp=drive_link" title="Technology & Innovation Marketing"><img align="left" width="150px" src="assets/innovation-marketing.jpg" alt="image"></a>
 
-<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="top" width="150px" src="assets/social-marketing.jpg" alt="image"></a>  
-
-<br> </br>
+<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="top" width="150px" src="assets/social-marketing.jpg" alt="image"></a>
 
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 ____
