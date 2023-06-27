@@ -31,3 +31,5 @@ There are several ways that companies can differentiate their products:
 - Price Differentiation: Sometimes, businesses differentiate their products by offering lower prices than their competitors, although this isn't a sustainable strategy for all businesses, especially those with high operating costs.
 
 Successful product differentiation requires a deep understanding of the market, the competition, and the customers. By understanding what customers value, companies can create products that meet their needs and stand out from the competition.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/wlc1pcQq02w" title="Product Differentiation Explained | Business &amp; Marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
