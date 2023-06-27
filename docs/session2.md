@@ -1,4 +1,4 @@
-[<- Back to home](https://pgtreau.github.io/)
+[<- Back to home](https://pgtreau.github.io/marketing.html)
 ## Session 2: How value is created
 
 **Value Proposition**: This is the unique value a company promises to deliver to customers if they choose its product or service. It differentiates the company's offering from competitors and provides a compelling reason for customers to choose it. It is important for marketers to understand exactly how their offering differs from the competition.
