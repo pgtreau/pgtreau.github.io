@@ -1,4 +1,4 @@
-[<- Back to home](https://pgtreau.github.io/)
+[<- Back to home](https://pgtreau.github.io/marketing.html)
 # Session 1: Fundamentals of Marketing
 
 **Marketing** principles assert that businesses should strive to satisfy their customers' needs and wants while also achieving their own goals. It involves understanding the target audience, their preferences, and how your product or service can meet their requirements.
