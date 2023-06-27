@@ -10,7 +10,7 @@
 
 You may need to be granted access to these files, email me if they are not accessible.
 
-## Session 1: Intro to Marketing
+## Session 1: Marketing Fundamentals
 
 [Session 1 Video Content](https://pgtreau.github.io/session1.html)
 
