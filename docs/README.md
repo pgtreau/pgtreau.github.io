@@ -5,7 +5,7 @@
 <img align="left" width="50px" src="assets/social-marketing.jpg" alt="image">
 </p>
 
-<https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
+<p><https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link></p>
 
 ## Session 1: Intro to Marketing
 
