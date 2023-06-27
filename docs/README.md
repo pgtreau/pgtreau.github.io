@@ -1,10 +1,10 @@
 ## Reading Material & Working Documents
   
-<a href="https://drive.google.com/file/d/1g35rYNP2t7ihk8FNQsXImhxf4W3BGCbJ/view?usp=drive_link" title="Ready, Launch, Brand"><img align="left" width="150px" src="assets/startup-marketing.jpg" alt="image"></a>
+<a href="https://drive.google.com/file/d/1g35rYNP2t7ihk8FNQsXImhxf4W3BGCbJ/view?usp=drive_link" title="Ready, Launch, Brand"><img align="top" width="150px" src="assets/startup-marketing.jpg" alt="image"></a>
 
-<a href="https://drive.google.com/file/d/1p3ATy3UFxT5vbKb24eVCh2a1XE_bWd0f/view?usp=drive_link" title="Technology & Innovation Marketing"><img align="left" width="150px" src="assets/innovation-marketing.jpg" alt="image"></a>
+<a href="https://drive.google.com/file/d/1p3ATy3UFxT5vbKb24eVCh2a1XE_bWd0f/view?usp=drive_link" title="Technology & Innovation Marketing"><img align="top" width="150px" src="assets/innovation-marketing.jpg" alt="image"></a>
 
-<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="left" width="150px" src="assets/social-marketing.jpg" alt="image"></a>  
+<a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="top" width="150px" src="assets/social-marketing.jpg" alt="image"></a>  
 
 <br> </br>
 
