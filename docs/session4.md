@@ -1,6 +1,6 @@
 [<- Back to home](https://pgtreau.github.io/marketing.html)
 
-# Session 4: Product Differentiation
+# Chapter 4: Product Differentiation
 
 **Product differentiation** is the process of distinguishing a product or service from others to make it more attractive to a particular target market. This involves differentiating it from competitors' products as well as a company's own product offerings. The differentiation could be based on the product itself, the delivery method, a pricing strategy, or other aspects of the product offering.
 
