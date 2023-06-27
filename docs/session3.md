@@ -1,6 +1,6 @@
 [<- Back to home](https://pgtreau.github.io/marketing.html)
 
-## Session 3: Market Segmentation
+## Chapter 3: Market Segmentation
 
 **Market segmentation** refers to the process of dividing a market of potential customers into distinct groups, or segments, based on different characteristics. The segments created are composed of consumers who will respond similarly to marketing strategies and share traits such as similar interests, needs, or locations.
 
