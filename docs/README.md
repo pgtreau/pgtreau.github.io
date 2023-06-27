@@ -4,9 +4,9 @@
 <img align="left" width="100px" src="assets/innovation-marketing.jpg" alt="image">
 <img align="left" width="100px" src="assets/social-marketing.jpg" alt="image">
 </p>
-____
-<https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 
+<https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
+____
 ## Session 1: Intro to Marketing
 
 [Session 1 Video Content](https://pgtreau.github.io/session1.html)
