@@ -1,6 +1,6 @@
 ## Reading Material & Working Documents
 
-<img align="left" src="assets/startup-marketing.png" alt="image"><img align="center" src="assets/innovation-marketing.png" alt="image"><img align="right" src="assets/social-marketing.png" alt="image">
+<img align="left" src="assets/startup-marketing.png" alt="image"><img align="centre" src="assets/innovation-marketing.png" alt="image"><img align="right" src="assets/social-marketing.png" alt="image">
 
 
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
