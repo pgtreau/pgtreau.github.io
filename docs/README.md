@@ -6,12 +6,12 @@
 
 <a href="https://drive.google.com/file/d/1IrdJR2PkaDNn5HnllkfZH5Rr3be_s3Ah/view?usp=drive_link" title="Social Marketing"><img align="left" width="150px" src="assets/social-marketing.jpg" alt="image"></a>  
 
-<br />
+<br> </br>
 
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 ____
 
-<br />
+
 
 ## Session 1: Intro to Marketing
 
