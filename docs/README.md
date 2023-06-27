@@ -1,4 +1,6 @@
 ## Reading Material & Working Documents
+
+<img align="left" src="assets/market_mix.png" alt="image">
 <https://drive.google.com/drive/folders/15Cqgb-2tDDotS5yMiCa0nVk9XlRb6YVW?usp=drive_link>
 
 ## Session 1: Intro to Marketing
