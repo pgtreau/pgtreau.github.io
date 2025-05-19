@@ -24,7 +24,12 @@
 <body>
   <header>
     <nav>
-      <div class="logo"><a href="#about" style="color:var(--primary-color); text-decoration:none; font-weight:bold">Pierre Gautreau</a></div>
+      <div class="logo-container">
+        <div class="pg_img">
+          <img src="./assets/images/pg_logo.png" alt="PG Logo" />
+        </div>
+
+        <a href="#about" style="color:var(--primary-color); text-decoration:none; font-weight:bold">Pierre Gautreau</a></div>
       <ul class="nav-links">
         <li><a href="#about-anchor">About Me</a></li>
         <li><a href="#cv-anchor">CV</a></li>
@@ -71,7 +76,7 @@
       </div>
       <div class="about-text">
         <p>
-           Hi, I’m a researcher working at the intersection of machine learning, healthcare, and innovation. I work on AI systems that don’t just work in theory—they help solve real problems in the world, from improving patient recovery in physiotherapy to supporting better decisions in startups and drug development.</p>
+           Hi,<br> I’m a researcher working at the intersection of machine learning, healthcare, and innovation. I work on AI systems that don’t just work in theory—they help solve real problems in the world, from improving patient recovery in physiotherapy to supporting better decisions in startups and drug development.</p>
         <p>
           My background blends industrial engineering, operations, and applied machine learning. That means I’m comfortable working with messy data, building interpretable models, and turning complex analysis into clear insights that people can use.</p>
         <p>
@@ -85,6 +90,19 @@
           Across everything I do, I focus on building trustworthy, evidence-based tools that are practical, transparent, and grounded in rigorous methods. If you're working on a problem where decisions matter and data is messy, I’d love to talk.</p>
       </div>
     </div>
+  </section>
+
+  <section id="comments">
+    <h3> Reach out with questions</h3>
+    <p>If you have any questions or comments about my work, I invite you to reach out. If you add your email address I'll be happy to get back to you.</p>
+
+    <form action="https://formsubmit.co/pgtreau@gmail.com" method="POST">
+      <input type="text" name="name" required placeholder="Your Name">
+      <input type="email" name="email" required placeholder="Your Email">
+      <textarea name="message" required placeholder="Your Comment"></textarea>
+      <button type="submit">Send</button>
+      <input type="hidden" name="_next" value="blog.html">
+    </form>
   </section>
 
   <div id="cv-anchor" class="scroll-anchor"></div>
@@ -455,9 +473,11 @@
     </div>
 
   </section>
-</body>
-<footer class="site-footer">
+  <footer class="site-footer">
   <p>&copy; 2025 Pierre Gautreau. All rights reserved.</p>
+  <p><a href="mailto:pierre.gautreau@outlook.com">Contact</a></p>
 </footer>
+
+</body>
 
 </html>
