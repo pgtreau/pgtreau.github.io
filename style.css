@@ -14,7 +14,7 @@ body {
 header {
   position: sticky;
   top: 0;
-  background: #fff;
+  background: #000;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   z-index: 10;
 }
@@ -44,7 +44,7 @@ nav {
 }
 .nav-links a {
   text-decoration: none;
-  color: var(--text-color);
+  color: #fff;
   padding: 0.5rem 0.75rem;
   border-radius: 4px;
   transition: background 0.2s;
@@ -85,14 +85,12 @@ p {
   margin-top: 0;
 }
 .heading-section {
-  background-color: #345150;
-  color: #ffffff;
   padding: 2rem 1rem;
   margin-top: 0 !important;
 }
 .heading-section h2 {
   margin-top: 0;
-  border-bottom: 3px solid #ffffff;
+  border-bottom: 3px solid #333;
 }
   /* About section layout */
 .about-container {
