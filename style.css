@@ -176,6 +176,48 @@ p {
   margin-bottom: 1rem;
 }
 
+  /* affiliation section layout */
+.affiliation-container {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.left {
+  flex: 0 0 210px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical centering */
+  align-items: center;     /* horizontal centering */
+}
+
+.left img {
+  max-width: 200px;
+  max-height: 80px;
+  border-radius: 4px; /* optional: remove or style differently */
+}
+.left-text {
+  margin-top: 0rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.right-text {
+  margin-top: 1rem;
+  flex: 1;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.right-text ul {
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+
 #blog {
     padding: 0rem;
     width: 60%;
