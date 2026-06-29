@@ -276,7 +276,7 @@ p {
 }
 
 .dark-section {
-  background-color: #345150;
+  background-color: var(--primary-color);
   color: #ffffff;
   padding: 4rem 1rem;
 }
