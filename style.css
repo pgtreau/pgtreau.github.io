@@ -324,7 +324,7 @@ a:hover {
 .logo-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
+  gap: 18px;
   align-items: center;
   justify-items: center;
   width: 100%;
@@ -332,7 +332,7 @@ a:hover {
 
 .logo-grid img {
   max-width: 100%;
-  max-height: 80px;
+  max-height: 50px;
   width: auto;
   height: auto;
   object-fit: contain;
