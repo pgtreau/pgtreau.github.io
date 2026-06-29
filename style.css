@@ -331,7 +331,7 @@ a:hover {
 }
 
 .logo-grid img {
-  max-width: 100%;
+  max-width: 150px;
   max-height: 50px;
   width: auto;
   height: auto;
