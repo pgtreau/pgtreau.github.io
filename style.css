@@ -321,4 +321,8 @@ a:hover {
   padding: 0.2rem 0.5rem;
 }
 
+table {
+  width: 100%;
+  border:0px solid black;
+}
 
