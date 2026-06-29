@@ -321,9 +321,32 @@ a:hover {
   padding: 0.2rem 0.5rem;
 }
 
-table {
-  border-collapse: collapse;
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: center;
+  justify-items: center;
+  width: 100%;
+}
+
+.logo-grid img {
   max-width: 100%;
-  border:0px solid black;
+  max-height: 80px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 700px) {
+  .logo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 450px) {
+  .logo-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
