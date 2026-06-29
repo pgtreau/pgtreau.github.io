@@ -146,7 +146,7 @@ p {
 
 .middle {
   margin-top: 0rem;
-  flex: 0 0 150px;
+  flex: 0 0 210px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -331,7 +331,7 @@ a:hover {
 }
 
 .logo-grid img {
-  max-width: 100px;
+  max-width: 80px;
   max-height: 50px;
   width: auto;
   height: auto;
