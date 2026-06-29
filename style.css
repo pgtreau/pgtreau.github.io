@@ -153,8 +153,8 @@ p {
 }
 
 .middle img {
-  max-width: 140px;
-  max-height: 40px;
+  max-width: 150px;
+  max-height: 65px;
   border-radius: 4px; /* optional: remove or style differently */
 }
 .left-text {
