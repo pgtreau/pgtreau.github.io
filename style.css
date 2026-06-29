@@ -185,7 +185,7 @@ p {
 }
 
 .left {
-  flex: 0 0 210px;
+  flex: 0 0 310px;
   text-align: center;
   display: flex;
   flex-direction: column;
