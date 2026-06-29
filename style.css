@@ -258,7 +258,7 @@ p {
 
 .site-footer {
   width: 100vw; /* full viewport width */
-  background-color: #345150;
+  background-color: var(--primary-color);
   color: white;
   text-align: center;
   padding: 1.5rem 1rem;
