@@ -153,8 +153,8 @@ p {
 }
 
 .middle img {
-  max-width: 130px;
-  max-height: 55px;
+  max-width: 200px;
+  max-height: 80px;
   border-radius: 4px; /* optional: remove or style differently */
 }
 .left-text {
@@ -331,7 +331,7 @@ a:hover {
 }
 
 .logo-grid img {
-  max-width: 150px;
+  max-width: 100px;
   max-height: 50px;
   width: auto;
   height: auto;
