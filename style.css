@@ -323,7 +323,7 @@ a:hover {
 
 table {
   border-collapse: collapse;
-  width: 50%;
+  max-width: 100%;
   border:0px solid black;
 }
 
